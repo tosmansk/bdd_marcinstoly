@@ -20,7 +20,7 @@ import static org.junit.Assert.assertTrue;
 
 public class MarcinStolyRest {
 
-/*
+/* This was added for conflict purpose
  * This is step file to cucumber marcinselenium.feature
  * This class makes assertation to marcinstoly page and html responses.
  */
