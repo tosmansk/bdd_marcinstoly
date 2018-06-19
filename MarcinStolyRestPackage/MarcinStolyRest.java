@@ -20,6 +20,11 @@ import static org.junit.Assert.assertTrue;
 
 public class MarcinStolyRest {
 
+/*
+ * This is step file to cucumber marcinselenium.feature
+ * This class makes assertation to marcinstoly page and html responses.
+ */
+
     OkHttpClient client = new OkHttpClient();
     String URL = "http://tosmansk.pythonanywhere.com/marcinstoly";
     //String URL = "http://127.0.0.1:5000/marcinstoly";
